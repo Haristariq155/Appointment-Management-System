@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\helpers\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:helpers\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\dataaccess\\userrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:dataaccess\\userrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\dataaccess\\iuserrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:dataaccess\\iuserrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\dataaccess\\appointmentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:dataaccess\\appointmentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\dataaccess\\iappointmentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:dataaccess\\iappointmentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\dataaccess\\appointmentuserdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:dataaccess\\appointmentuserdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|c:\\users\\haris tariq\\source\\repos\\appointmentmanagementuserapi\\appointmentmanagementuserapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{722D2384-C268-41C3-83FC-E4F8EF20E7B1}|AppointmentManagementUserApi.csproj|solutionrelative:appointmentmanagementuserapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JWTAuth.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Helpers\\JWTAuth.cs",
+              "RelativeDocumentMoniker": "Helpers\\JWTAuth.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Helpers\\JWTAuth.cs",
+              "RelativeToolTip": "Helpers\\JWTAuth.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:04:45.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\UserRepos.cs",
+              "RelativeDocumentMoniker": "DataAccess\\UserRepos.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\UserRepos.cs",
+              "RelativeToolTip": "DataAccess\\UserRepos.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAIA1wCsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:01:17.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\IUserRepos.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IUserRepos.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\IUserRepos.cs",
+              "RelativeToolTip": "DataAccess\\IUserRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:50:14.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T09:03:55.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwFQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:37:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:45:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T08:40:34.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\UserDto.cs",
+              "RelativeToolTip": "Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:48:19.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppointmentRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\AppointmentRepos.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppointmentRepos.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\AppointmentRepos.cs",
+              "RelativeToolTip": "DataAccess\\AppointmentRepos.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:39:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAppointmentRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\IAppointmentRepos.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IAppointmentRepos.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\IAppointmentRepos.cs",
+              "RelativeToolTip": "DataAccess\\IAppointmentRepos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:22:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "Models\\AppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\AppointmentDTO.cs",
+              "RelativeToolTip": "Models\\AppointmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:52:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:08:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:08:43.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentUserDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\AppointmentUserDBContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppointmentUserDBContext.cs",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\DataAccess\\AppointmentUserDBContext.cs",
+              "RelativeToolTip": "DataAccess\\AppointmentUserDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:11:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentManagementUserApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\AppointmentManagementUserApi.csproj",
+              "RelativeDocumentMoniker": "AppointmentManagementUserApi.csproj",
+              "ToolTip": "C:\\Users\\Haris Tariq\\source\\repos\\AppointmentManagementUserApi\\AppointmentManagementUserApi.csproj",
+              "RelativeToolTip": "AppointmentManagementUserApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T10:27:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAALESAAAAAAAAAAAQwMUSAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-11T10:30:44.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
